@@ -1979,20 +1979,20 @@
     }],
     "content": []
 }, {
-    "topic": "(1)  สำนักงานสถานธนานุบาลกรุงเทพมหานคร                     285,450,000 บาท",
-    "budget": "",
+    "topic": "สำนักงานสถานธนานุบาลกรุงเทพมหานคร",
+    "budget": "0",
     "program_list": [{
         "program_name": "งบกลาง",
-        "budget": "\n"
+        "budget": "0"
     }, {
         "program_name": "แผนงานการพาณิชย์ของกรุงเทพมหานคร",
-        "budget": "\n"
+        "budget": "0"
     }, {
         "program_name": "งบกลาง",
-        "budget": "\n"
+        "budget": "0"
     }, {
         "program_name": "แผนงานการพาณิชย์ของกรุงเทพมหานคร",
-        "budget": "\n"
+        "budget": "0"
     }],
     "content": []
 }]
